@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CHI",
+    "IBI",
+    "III"
+  ],
+  "key": {
+    "C": {
+      "item": "miningmod:chimney"
+    },
+    "B": {
+      "item": "minecraft:blast_furnace"
+    },
+    "H": {
+      "item": "miningmod:hatch"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "miningmod:nuclear_reflector",
+    "count": 1
+  }
+}

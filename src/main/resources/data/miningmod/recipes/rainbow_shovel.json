@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "miningmod:rainbow_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "miningmod:rainbow_shovel",
+    "count": 1
+  }
+}

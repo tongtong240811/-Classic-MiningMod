@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:nuclear_reflector"
+    },
+    "title": "Reflected",
+    "description": "You Craft Nuclear Reflector!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "miningmod:heavy_anvil",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:nuclear_reflector"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

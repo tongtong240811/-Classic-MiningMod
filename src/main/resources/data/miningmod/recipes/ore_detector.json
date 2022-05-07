@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  L",
+    "YMY",
+    "YYY"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "Y": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "M": {
+      "item": "miningmod:monitor"
+    }
+  },
+  "result": {
+    "item": "miningmod:ore_detector",
+    "count": 1
+  }
+}

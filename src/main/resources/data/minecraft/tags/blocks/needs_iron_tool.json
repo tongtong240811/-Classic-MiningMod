@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"miningmod:rainbow_ore",
+		"miningmod:deepslate_rainbow_ore",
+		"miningmod:heavy_anvil",
+		"miningmod:nuclear_reflector",
+		"miningmod:tungsten_ore"
+	]
+}

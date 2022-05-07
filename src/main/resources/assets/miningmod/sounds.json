@@ -1,0 +1,8 @@
+{
+	"ore_detector_found_ore": {
+		"subtitle": "sounds.miningmod.ore_detector_found_ore",
+		"sounds": [
+			"miningmod:ore_detector_found_ore"
+		]
+	}
+}

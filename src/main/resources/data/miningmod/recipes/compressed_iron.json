@@ -1,0 +1,14 @@
+{
+	"type": "miningmod:compressed",
+	"ingredients": [
+		{
+			"item": "minecraft:iron_ingot"
+		},
+		{
+			"item": "minecraft:iron_ingot"
+		}
+	],
+	"result": {
+		"item": "miningmod:compressed_iron"
+	}
+}

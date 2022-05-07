@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:ore_detector"
+    },
+    "title": "Let Find Out",
+    "description": "You Craft Ore Detector!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "miningmod:nuclear_reflector",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:ore_detector"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:rainbow_ingot"
+    },
+    "title": "Mining Mod",
+    "description": "This mod use more power stuff",
+    "background": "textures/block/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:copper_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:rainbow_ore"
+    },
+    "title": "I Find Rainbow Ore!",
+    "description": "Is look so very deep",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "miningmod:mining_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:raw_rainbow"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

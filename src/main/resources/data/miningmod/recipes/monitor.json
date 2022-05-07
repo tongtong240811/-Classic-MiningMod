@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "miningmod:copper_wire"
+    },
+    {
+      "item": "miningmod:glass_shield"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "miningmod:monitor",
+    "count": 1
+  }
+}

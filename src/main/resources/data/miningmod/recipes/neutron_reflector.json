@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "miningmod:tungsten_ingot"
+  },
+  "result": "miningmod:neutron_reflector",
+  "experience": 1,
+  "cookingtime": 100
+}

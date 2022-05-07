@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:rainbow_pickaxe"
+    },
+    "title": "Ah is look so strong!",
+    "description": "You craft rainbow pickaxe!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "miningmod:raw_rainbow",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:rainbow_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

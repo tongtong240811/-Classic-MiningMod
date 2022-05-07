@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " CI",
+    "   "
+  ],
+  "key": {
+    "C": {
+      "item": "miningmod:compressed_iron"
+    },
+    "I": {
+      "item": "miningmod:handler"
+    }
+  },
+  "result": {
+    "item": "miningmod:hatch",
+    "count": 1
+  }
+}

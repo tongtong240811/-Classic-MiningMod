@@ -1,0 +1,11 @@
+{
+	"type": "miningmod:reflector",
+	"ingredients": [
+		{
+			"item": "minecraft:raw_copper"
+		}
+	],
+	"result": {
+		"item": "minecraft:copper_ingot"
+	}
+}

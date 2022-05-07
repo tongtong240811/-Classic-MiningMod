@@ -1,0 +1,26 @@
+modLoader="javafml" 
+loaderVersion="[40,)" 
+license="All rights reserved"
+[[mods]] 
+modId="miningmod" 
+version="10.5-Forge" 
+displayName="Mining Mod" 
+logoFile="examplemod.png" 
+credits="Made by Tong" 
+authors="Tong" 
+description='''
+This mod use more power stuff.
+'''
+
+[[dependencies.miningmod]] 
+    modId="forge" 
+    mandatory=true 
+    versionRange="[40,)" 
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.miningmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "miningmod:block/nuclear_reflector"
+		},
+		"facing=east": {
+			"model": "miningmod:block/nuclear_reflector",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "miningmod:block/nuclear_reflector",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "miningmod:block/nuclear_reflector",
+			"y": 270
+		}
+	}
+}

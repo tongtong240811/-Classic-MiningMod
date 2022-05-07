@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "miningmod:block/heavy_anvil"
+		},
+		"facing=east": {
+			"model": "miningmod:block/heavy_anvil",
+			"y": 90
+		},
+		"facing=south": {
+			"model": "miningmod:block/heavy_anvil",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "miningmod:block/heavy_anvil",
+			"y": 270
+		}
+	}
+}

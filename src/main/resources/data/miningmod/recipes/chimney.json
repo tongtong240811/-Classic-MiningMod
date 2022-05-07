@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " W ",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:red_concrete"
+    },
+    "W": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "miningmod:chimney",
+    "count": 1
+  }
+}

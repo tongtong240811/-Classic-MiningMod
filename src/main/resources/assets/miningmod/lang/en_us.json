@@ -1,0 +1,54 @@
+{
+	"item.miningmod.rainbow_ingot": "Rainbow Ingot",
+	"item.miningmod.monitor": "Monitor",
+	"item.miningmod.copper_wire": "Copper Wire",
+	"item.miningmod.glass_shield": "Glass Shield",
+	"item.miningmod.raw_rainbow": "Raw Rainbow",
+	"item.miningmod.ore_detector": "Ore Detector",
+	
+	"tooltip.miningmod.ore_detector.tooltip.shift": "Right Click to find Valuables!",
+  	"tooltip.miningmod.ore_detector.tooltip": "Press §eSHIFT§r for more Information!",
+	
+	"item.miningmod.ore_detector.no_valuables": "No Ore Detected!",
+	
+	"block.miningmod.heavy_anvil": "Heavy Anvil",
+	"block.miningmod.nuclear_reflector": "Nuclear Reflector",
+	
+	"itemGroup.miningmod": "Mining Mod",
+	
+	"item.miningmod.rainbow_sword": "Rainbow Sword",
+	"item.miningmod.rainbow_axe": "Rainbow Axe",
+	"item.miningmod.rainbow_pickaxe": "Rainbow Pickaxe",
+	"item.miningmod.rainbow_shovel": "Rainbow Shovel",
+	"item.miningmod.rainbow_hoe": "Rainbow Hoe",
+	
+	"item.miningmod.copper_sword": "Copper Sword",
+	"item.miningmod.copper_axe": "Copper Axe",
+	"item.miningmod.copper_pickaxe": "Copper Pickaxe",
+	"item.miningmod.copper_shovel": "Copper Shovel",
+	"item.miningmod.copper_hoe": "Copper Hoe",
+	
+	"block.miningmod.rainbow_ore": "Rainbow Ore",
+	"block.miningmod.tungsten_ore": "Tungsten Ore",
+	"block.miningmod.deepslate_rainbow_ore": "Deepslate Rainbow Ore",
+	
+	"item.miningmod.rainbow_helmet": "Rainbow Helmet",
+    "item.miningmod.rainbow_chestplate": "Rainbow Chestplate",
+    "item.miningmod.rainbow_leggings": "Rainbow Leggings",
+    "item.miningmod.rainbow_boots": "Rainbow Boots",
+    
+    "item.miningmod.copper_helmet": "Copper Helmet",
+    "item.miningmod.copper_chestplate": "Copper Chestplate",
+    "item.miningmod.copper_leggings": "Copper Leggings",
+    "item.miningmod.copper_boots": "Copper Boots",
+    
+    "item.miningmod.hammer": "Hammer",
+    "item.miningmod.compressed_iron": "Compressed Iron",
+    "item.miningmod.tungsten_ingot": "Tungsten Ingot",
+    "item.miningmod.chimney": "chimney",
+    "item.miningmod.handler": "Handler",
+    "item.miningmod.neutron_reflector": "Neutron Reflector",
+    "item.miningmod.hatch": "Hatch",
+    
+    "sounds.miningmod.ore_detector_found_ore": "Ore Detector Item Sound"
+}

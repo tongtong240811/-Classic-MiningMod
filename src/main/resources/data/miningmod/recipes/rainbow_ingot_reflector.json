@@ -1,0 +1,11 @@
+{
+	"type": "miningmod:reflector",
+	"ingredients": [
+		{
+			"item": "miningmod:raw_rainbow"
+		}
+	],
+	"result": {
+		"item": "miningmod:rainbow_ingot"
+	}
+}

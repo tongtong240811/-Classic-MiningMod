@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "key": {
+    "R": {
+      "item": "miningmod:rainbow_ingot"
+    }
+  },
+  "result": {
+    "item": "miningmod:rainbow_chestplate",
+    "count": 1
+  }
+}

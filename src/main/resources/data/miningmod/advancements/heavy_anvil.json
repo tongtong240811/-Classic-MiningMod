@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "miningmod:heavy_anvil"
+    },
+    "title": "Compressed",
+    "description": "You Craft Heavy Anvil!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "miningmod:rainbow_pickaxe",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "miningmod:heavy_anvil"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
