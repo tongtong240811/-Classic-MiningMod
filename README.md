@@ -1,0 +1,5 @@
+# -Classic-MiningMod
+This mod use more power stuff
+!--DISCAMER--!
+THIS VERSION ARE NOW DISCONNTINUTE FOR SHUTDOWN UPDATE FOR A NEW PROJECT
+THE VERSION NEW OF 1.20 coming up
